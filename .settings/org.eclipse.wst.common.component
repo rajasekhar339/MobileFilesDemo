@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+	<wb-module deploy-name="UCDTest">
+		<wb-resource deploy-path="/" source-path="/apps/UCDTest/common" />
+		<wb-resource deploy-path="/" source-path="/www" />
+		<wb-resource deploy-path="/" source-path="/server/java" />
+		<wb-resource deploy-path="/" source-path="/apps/UCDTest/android" />
+		<property name="context-root" value="UCDTest" />
+	</wb-module>
+</project-modules>
